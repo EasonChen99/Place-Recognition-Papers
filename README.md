@@ -1,5 +1,4 @@
 # Place-Recognition-Papers
-===
 
 A collection of place recognition papers.
 
