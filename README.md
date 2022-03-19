@@ -24,14 +24,14 @@ A collection of place recognition papers.
 | Cross modal | [Visual Camera Re-Localization from RGB and RGB-D Images Using DSAC](https://arxiv.org/pdf/2002.12324v4.pdf) | IEEE Transactions on Pattern Analysis and Machine Intelligence 2021 |  |
 | Cross modal | [CFNet: LiDAR-Camera Registration Using Calibration Flow Network](https://www.mdpi.com/1424-8220/21/23/8112) | IEEE Sensors Journal 2021 |  |
 | Cross modal | [HyperMap: Compressed 3D Map for Monocular Camera Registration](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9561864) | ICRA 2021 |  |
-| Cross modal | [DeepI2P: Image-to-Point Cloud Registration via Deep Classification](https://arxiv.org/pdf/2104.03501v1.pdf) | CVPR 2021 | [Code](https://github.com/lijx10/DeepI2P) |
+| Cross modal | [DeepI2P: Image-to-Point Cloud Registration via Deep Classification](https://arxiv.org/pdf/2104.03501v1.pdf) | CVPR 2021 | [[Code](https://github.com/lijx10/DeepI2P)] |
 | Cross modal | [Monocular Camera Localization in Prior LiDAR Maps with 2D-3D Line Correspondences](https://arxiv.org/pdf/2004.00740v2.pdf) | IROS 2020 |  |
 | Cross modal | [RSL-Net: Localising in Satellite Images From a Radar on the Ground](https://arxiv.org/pdf/2001.03233v2.pdf) | IEEE Robotics and Automation Letters 2020 |  |
 | Cross modal | [Global visual localization in LiDAR-maps through shared 2D-3D embedding space](https://arxiv.org/pdf/1910.04871v2.pdf) | ICRA 2020 |  |
 | Cross modal | [Self-Supervised Localisation between Range Sensors and Overhead Imagery](https://arxiv.org/pdf/2006.02108v2.pdf) | 2020 |  |
 | Cross modal | [Fully Convolutional Network for Automatic Road Extraction from Satellite Imagery](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9106407) | IEEE Transactions on Instrumentation and Measurement 2020 |  |
-| Cross modal | [CMRNet++: Map and Camera Agnostic Monocular Visual Localization in LiDAR Maps](https://arxiv.org/pdf/2004.13795v2.pdf) | ICRA 2020 | [Code](https://github.com/cattaneod/CMRNet) |
-| Cross modal | [CMRNet: Camera to LiDAR-Map Registration](https://arxiv.org/pdf/1906.10109v3.pdf) | ITSC 2019 | [Code](https://github.com/cattaneod/CMRNet) |
+| Cross modal | [CMRNet++: Map and Camera Agnostic Monocular Visual Localization in LiDAR Maps](https://arxiv.org/pdf/2004.13795v2.pdf) | ICRA 2020 | [[Code](https://github.com/cattaneod/CMRNet)] |
+| Cross modal | [CMRNet: Camera to LiDAR-Map Registration](https://arxiv.org/pdf/1906.10109v3.pdf) | ITSC 2019 | [[Code](https://github.com/cattaneod/CMRNet)] |
 | Cross modal | [Convolutional neural network-based coarse initial position estimation of a monocular camera in large-scale 3D light detection and ranging maps](https://journals.sagepub.com/doi/full/10.1177/1729881419893518) | IJARS 2019 |  |
 | Cross modal | [3D Point Cloud Map Based Vehicle Localization Using Stereo Camera](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7995765) | IEEE intelligent vehicles symposium 2017 |  |
 | Cross modal | [Visual Localization within LIDAR Maps for Automated Urban Driving](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6942558) | IROS 2014 |  |
