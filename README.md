@@ -1,5 +1,4 @@
 # Place-Recognition-Papers
-Papers on **Place Recognition** for the recent years
 ===
 
 A collection of place recognition papers.
